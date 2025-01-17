@@ -1,0 +1,37 @@
+{
+  "name": "my-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "@react-oauth/google": "^0.12.1",
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "bootstrap-select": "^1.13.18",
+    "bootstrap-touchspin": "^4.7.3",
+    "counterup2": "^2.0.2",
+    "imagesloaded": "^5.0.0",
+    "jquery": "^3.7.1",
+    "js-cookie": "^3.0.5",
+    "magnific-popup": "^1.2.0",
+    "masonry-layout": "^4.2.2",
+    "next": "^15.1.4",
+    "owl.carousel": "^2.3.4",
+    "react": "^19.0.0",
+    "react-bootstrap": "^2.10.7",
+    "react-dom": "^19.0.0",
+    "smooth-scrollbar": "^8.8.4",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.4"
+  }
+}
