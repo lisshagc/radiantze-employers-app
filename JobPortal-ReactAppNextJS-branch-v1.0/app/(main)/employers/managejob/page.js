@@ -2,7 +2,7 @@
 import Cookies from 'js-cookie';
 import { useEffect, useState } from 'react';
 
-export default function PostJob() {
+export default function ManageJob() {
     const [formData, setFormData] = useState({
 		personaldetails:'',
 		number: '',
